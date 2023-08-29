@@ -8,4 +8,4 @@ Currently taking Introduction to Computer Science at Simpson College, so I'll le
 
 Reach me at kenneth.norris@my.simpson.edu or kennethenorris.23@gmail.com
 
-Boss says .jump, I return how.high?
+Boss inputs .jump, I return how.high?
